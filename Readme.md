@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[GripPieAnimation.cs](./CS/AnimationExample/GripPieAnimation.cs) (VB: [GripPieAnimation.vb](./VB/AnimationExample/GripPieAnimation.vb))**
+* [MainForm.cs](./CS/AnimationExample/MainForm.cs) (VB: [MainForm.vb](./VB/AnimationExample/MainForm.vb))
+<!-- default file list end -->
 # How to implement a custom pie animation
 
 
